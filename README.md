@@ -1,5 +1,5 @@
 # Weather-app
-PRODIGY_WD_03
+
 <p align="center">
 
 </p>
@@ -8,7 +8,7 @@ PRODIGY_WD_03
 
 
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://www.github.com/iamkanhaiyakumar/) <br>
-<a href="http://127.0.0.1:5500/weather%20app/index.html"> Live Demo <img src="" />  </a>
+<a href="https://iamkanhaiyakumar.github.io/Weather-app/"> Live Demo <img src="" />  </a>
 
 ## Weather-app
 
