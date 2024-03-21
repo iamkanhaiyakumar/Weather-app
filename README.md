@@ -1,8 +1,6 @@
 # Weather-app
 
-<p align="center">
-
-</p>
+<p align="center"></p>
 
 # Weather-app By Kanhaiya Kumar
 
@@ -13,5 +11,5 @@
 ## Weather-app
 
 
-### This Responsive-Landing-Page Repository is made by [Kanhaiya Kumar](https://www.github.com/iamkanhaiyakumar/)
+### This Weather-app  Repository is made by [Kanhaiya Kumar](https://www.github.com/iamkanhaiyakumar/)
 
